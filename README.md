@@ -1,7 +1,3 @@
-
-
-Here are some ideas to get you started:
-
 # 👋 Hey, I'm Ajibola Ajiboye
 
 🚀 Cybersecurity & Cloud Engineer in training  
